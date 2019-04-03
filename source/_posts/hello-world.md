@@ -7,6 +7,7 @@ tags: # 标签可以有多个
   - CRM
   - promise
 # cover: "https://text.com/demo.png" # 文章封面图片URL
+# description: 文章摘要
 ---
 
 文章摘要写在前面，支持 markdown 左右语法。
